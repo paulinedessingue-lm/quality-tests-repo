@@ -22,7 +22,13 @@
                     "collection": {
                          "postmanUid": "10679279-e2b91f10-e034-417e-a27f-124cb3972187"
                     },
-                    "token": "JQVy6rX5BqfLJg9uSM+agv/DiMU7nKZnE16w1+CQ8MhuUjOFcOYhyYIWzoztSSjtjAfSywkAQX+GSR1gWXISrwk8OZbkGqVNdBOvNjNViooUmJLGwkoauR180jw="
+                    "token": "JQVy6rX5BqfLJg9uSM+agv/DiMU7nKZnE16w1+CQ8MhuUjOFcOYhyYIWzoztSSjtjAfSywkAQX+GSR1gWXISrwk8OZbkGqVNdBOvNjNViooUmJLGwkoauR180jw=",
+                    "notify": {
+                        "xray": {
+                            "testPlanKey": "CQE-1580",
+                            "projectId": "CQE"
+                        }
+                    }
                 }
             ]
         }
