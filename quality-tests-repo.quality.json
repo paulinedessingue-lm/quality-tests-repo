@@ -1,0 +1,22 @@
+{
+    "description": {
+        "bu_code": "FRLM",
+        "stream": "Quality-Env",
+        "feature": "",
+        "project_tangram": ""
+    },
+    "environments": {
+        "uat": {
+            "cerberus": [
+                {
+                    "instance": "web",
+                    "labels": [
+                        "Locus-CICD"
+                    ],
+                    "platform": "desktop",
+                    "thresholdPct": 90
+                }
+            ]
+        }
+    }
+}
