@@ -6,7 +6,7 @@
         "project_tangram": ""
     },
     "environments": {
-        "uat": {
+        "uat1": {
             "cerberus": [
                 {
                     "instance": "web",
