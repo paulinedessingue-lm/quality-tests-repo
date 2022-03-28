@@ -7,16 +7,6 @@
     },
     "environments": {
         "uat1": {
-            "cerberus": [
-                {
-                    "instance": "web",
-                    "labels": [
-                        "Locus-CICD"
-                    ],
-                    "platform": "desktop",
-                    "thresholdPct": 90
-                }
-            ],
             "postman": [
                 {
                     "collection": {
